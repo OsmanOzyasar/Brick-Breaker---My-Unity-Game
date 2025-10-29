@@ -13,7 +13,7 @@ The game includes core gameplay mechanics, a scoring system, combos, and a main 
 
 ## 📱 Build
 The APK file can be downloaded from the "Releases" section:  
-[Releases](../../releases)
+[Releases](https://github.com/OsmanOzyasar/Brick-Breaker---My-Unity-Game/releases/tag/v1.0_AndroidBuild)
 
 ## 🛠️ Technologies
 - Unity 2022.3+  
